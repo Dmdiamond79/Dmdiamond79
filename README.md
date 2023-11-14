@@ -10,4 +10,8 @@ Tools:
   - HTML/CSS
   - JavaScript
   - React
+  - SQL
+  - Python
+  - Vite
+    
 
