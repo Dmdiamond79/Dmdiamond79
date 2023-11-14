@@ -9,4 +9,5 @@ New Front-end Dev:)
 Tools:
   - HTML/CSS
   - JavaScript
+  - React
 
