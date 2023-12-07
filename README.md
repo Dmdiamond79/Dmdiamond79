@@ -13,5 +13,10 @@ Tools:
   - SQL
   - Python
   - Vite
+  - NodeJS
+  - ExpressJS
+  - Postman
+  - PostgreSQL
+
     
 
