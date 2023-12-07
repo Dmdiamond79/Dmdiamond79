@@ -17,6 +17,7 @@ Tools:
   - ExpressJS
   - Postman
   - PostgreSQL
+  - Swagger
 
     
 
